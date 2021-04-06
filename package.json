@@ -1,0 +1,11 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OmarDevEst/Portfolio.git",
+  "author": "Omar <ckansito981@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
