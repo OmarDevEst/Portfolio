@@ -81,6 +81,11 @@ body {
   background: #0d0d0d;
 }
 
+#tech {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 #tech h2 {
   width: 90%;
   max-width: 1000px;
@@ -92,23 +97,13 @@ body {
   max-width: 1000px;
   margin: 0 auto;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  height: 30rem;
+  height: 10rem;
 }
 #tech .container .image {
-  width: 48%;
-  max-width: 80%;
-  max-height: 80%;
-  display: flex;
-  justify-content: center;
-}
-#tech .container .image figure img {
-  width: 100%;
-  max-width: 80%;
-  max-height: 80%;
-  border: 6px solid #7c1010;
-  border-radius: 20%;
+  color: white;
+  font-size: 8rem;
 }
 #tech .container *, #tech .container *::before, #tech .container *::after {
   box-sizing: border-box;
@@ -141,23 +136,13 @@ body {
   max-width: 1000px;
   margin: 0 auto;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  height: 30rem;
+  height: 10rem;
 }
 #tech .container2 .image {
-  width: 48%;
-  max-width: 80%;
-  max-height: 80%;
-  display: flex;
-  justify-content: center;
-}
-#tech .container2 .image figure img {
-  width: 100%;
-  max-width: 80%;
-  max-height: 80%;
-  border: 6px solid #7c1010;
-  border-radius: 20%;
+  color: white;
+  font-size: 8rem;
 }
 #tech .container2 *, #tech .container2 *::before, #tech .container2 *::after {
   box-sizing: border-box;
@@ -190,23 +175,13 @@ body {
   max-width: 1000px;
   margin: 0 auto;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  height: 30rem;
+  height: 10rem;
 }
 #tech .container3 .image {
-  width: 48%;
-  max-width: 80%;
-  max-height: 80%;
-  display: flex;
-  justify-content: center;
-}
-#tech .container3 .image figure img {
-  width: 100%;
-  max-width: 80%;
-  max-height: 80%;
-  border: 6px solid #7c1010;
-  border-radius: 20%;
+  color: white;
+  font-size: 8rem;
 }
 #tech .container3 *, #tech .container3 *::before, #tech .container3 *::after {
   box-sizing: border-box;
@@ -239,23 +214,13 @@ body {
   max-width: 1000px;
   margin: 0 auto;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  height: 30rem;
+  height: 10rem;
 }
 #tech .container4 .image {
-  width: 48%;
-  max-width: 80%;
-  max-height: 80%;
-  display: flex;
-  justify-content: center;
-}
-#tech .container4 .image figure img {
-  width: 100%;
-  max-width: 80%;
-  max-height: 80%;
-  border: 6px solid #7c1010;
-  border-radius: 20%;
+  color: white;
+  font-size: 8rem;
 }
 #tech .container4 *, #tech .container4 *::before, #tech .container4 *::after {
   box-sizing: border-box;
@@ -288,23 +253,13 @@ body {
   max-width: 1000px;
   margin: 0 auto;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  height: 30rem;
+  height: 10rem;
 }
 #tech .container5 .image {
-  width: 48%;
-  max-width: 80%;
-  max-height: 80%;
-  display: flex;
-  justify-content: center;
-}
-#tech .container5 .image figure img {
-  width: 100%;
-  max-width: 80%;
-  max-height: 80%;
-  border: 6px solid #7c1010;
-  border-radius: 20%;
+  color: white;
+  font-size: 8rem;
 }
 #tech .container5 *, #tech .container5 *::before, #tech .container5 *::after {
   box-sizing: border-box;
@@ -337,23 +292,13 @@ body {
   max-width: 1000px;
   margin: 0 auto;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  height: 30rem;
+  height: 10rem;
 }
 #tech .container6 .image {
-  width: 48%;
-  max-width: 80%;
-  max-height: 80%;
-  display: flex;
-  justify-content: center;
-}
-#tech .container6 .image figure img {
-  width: 100%;
-  max-width: 80%;
-  max-height: 80%;
-  border: 6px solid #7c1010;
-  border-radius: 20%;
+  color: white;
+  font-size: 8rem;
 }
 #tech .container6 *, #tech .container6 *::before, #tech .container6 *::after {
   box-sizing: border-box;
@@ -386,23 +331,13 @@ body {
   max-width: 1000px;
   margin: 0 auto;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  height: 30rem;
+  height: 10rem;
 }
 #tech .container7 .image {
-  width: 48%;
-  max-width: 80%;
-  max-height: 80%;
-  display: flex;
-  justify-content: center;
-}
-#tech .container7 .image figure img {
-  width: 100%;
-  max-width: 80%;
-  max-height: 80%;
-  border: 6px solid #7c1010;
-  border-radius: 20%;
+  color: white;
+  font-size: 8rem;
 }
 #tech .container7 *, #tech .container7 *::before, #tech .container7 *::after {
   box-sizing: border-box;
