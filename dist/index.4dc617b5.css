@@ -7,7 +7,7 @@
 
 header {
   width: 100vw;
-  background: white;
+  background: #7c1010;
   border: 1px solid black;
   height: 4rem;
 }
@@ -22,7 +22,7 @@ header .container {
 }
 header .container nav a {
   margin-left: 1rem;
-  color: blue;
+  color: black;
   text-decoration: none;
   font-weight: 700;
 }
@@ -35,20 +35,28 @@ header .container nav a {
   justify-content: space-between;
   align-items: center;
   height: 30rem;
+  color: #fffefd;
 }
 #about .container .info {
   width: 48%;
 }
 #about .container .info h2 {
-  color: blue;
+  color: #7c1010;
   margin-bottom: 1rem;
 }
 #about .container .info p {
   margin-bottom: 1rem;
 }
+#about .container .info .actions {
+  display: flex;
+  justify-content: space-evenly;
+  color: #7c1010;
+  text-decoration: none;
+  font-size: 2rem;
+}
 #about .container .info .actions button {
   margin-right: 1rem;
-  background: cadetblue;
+  background: #7c1010;
   color: white;
   padding: 0.3rem 0.6rem;
   border: none;
@@ -65,7 +73,41 @@ header .container nav a {
   width: 100%;
   max-width: 80%;
   max-height: 80%;
-  height: 100%;
+  border: 6px solid #7c1010;
+  border-radius: 20%;
+}
+
+body {
+  background: #0d0d0d;
+}
+
+#tech h2 {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  color: #7c1010;
+}
+#tech .container {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30rem;
+}
+#tech .container .image {
+  width: 48%;
+  max-width: 80%;
+  max-height: 80%;
+  display: flex;
+  justify-content: center;
+}
+#tech .container .image figure img {
+  width: 100%;
+  max-width: 80%;
+  max-height: 80%;
+  border: 6px solid #7c1010;
   border-radius: 20%;
 }
 /*# sourceMappingURL=index.4dc617b5.css.map */
