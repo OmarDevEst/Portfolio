@@ -6,13 +6,13 @@
      justify-content: space-between;
      align-items: center;
      height: 30rem;
-    color :#fffefd;
+     color :#fffefd;
     ;
 
         .info{
             width: 48%;
             h2{
-                color:#7c1010;
+                color:#7c1010;;
                 margin-bottom: 1rem;
             }
 
@@ -24,12 +24,12 @@
             .actions{
                 display:flex;
                 justify-content: space-evenly;
-
-                .p{
-                    .a{
-                        color:#7c1010;
+      
+                p{
+                    a{
+                        font-size: 4rem;
                         text-decoration:none;
-                        font-size: 2rem;
+                        color:#7c1010;
                     }
                 }
 

@@ -50,16 +50,18 @@ header .container nav a {
 #about .container .info .actions {
   display: flex;
   justify-content: space-evenly;
-  color: #7c1010;
+}
+#about .container .info .actions p a {
+  font-size: 4rem;
   text-decoration: none;
-  font-size: 2rem;
+  color: #7c1010;
 }
 #about .container .info .actions button {
   margin-right: 1rem;
-  background: #7c1010;
-  color: white;
   padding: 0.3rem 0.6rem;
   border: none;
+  color: white;
+  background: #7c1010;
   border-radius: 0.3rem;
 }
 #about .container .image {
